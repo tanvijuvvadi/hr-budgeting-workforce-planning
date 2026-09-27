@@ -1,0 +1,3 @@
+CREATE DATABASE IF NOT EXISTS hr_budgeting_workforce_planning;
+
+USE hr_budgeting_workforce_planning;
